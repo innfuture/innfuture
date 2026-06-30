@@ -69,25 +69,8 @@ INNFUTURE is an engineering-led studio focused on building digital infrastructur
 ## Let's Build Something
 
 📍 Harare Zimbabwe / Remote - Worldwide  
-🌐 [https://innfuture.co.zw]  
-📧 [hello@innfuture.co.zw]  
-🔗 [LinkedIn] • [Instagram] • [YouTube] • [GitHub]
-
----
-
-## Meet the Team
-
-| Name | Role |
-|------|------|
-| [Name] | [Role] |
-| [Name] | [Role] |
-| [Name] | [Role] |
-
----
-
-## Clients We've Partnered With
-
-<!-- Add logo grid or client names here -->
+🌐 https://innfuture.co.zw  
+📧 hello@innfuture.co.zw  
 
 ---
 
@@ -99,8 +82,8 @@ We believe in giving back to the community. Check out our open-source contributi
 
 ## Careers
 
-Interested in working with us? We're always looking for talented engineers, strategists, and designers. [Reach out](#).
+Interested in working with us? We're always looking for talented engineers, strategists, and designers. [Reach out](careers@innfuture.co.zw).
 
 ---
 
-*© 2025 INNFUTURE. All rights reserved.*
+*© INNFUTURE. All rights reserved.*
