@@ -82,7 +82,7 @@ We believe in giving back to the community. Check out our open-source contributi
 
 ## Careers
 
-Interested in working with us? We're always looking for talented engineers, strategists, and designers. [Reach out](careers@innfuture.co.zw).
+Interested in working with us? We're always looking for talented engineers, strategists, and designers. [Reach out](mailto:careers@innfuture.co.zw).
 
 ---
 
